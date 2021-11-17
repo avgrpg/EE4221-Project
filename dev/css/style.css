@@ -87,19 +87,3 @@ body {
       .inner .right button {
         width: 75% !important;
         background-color: #1e1e1e !important; } }
-
-/*
-@media only screen and (min-width: 1600px) {
-    body {
-        font-size: 22px;
-    }
-
-    .content {
-        padding: 0 6em !important;
-    }
-
-    .right {
-        padding: 0 !important;
-    }
-}
-*/
